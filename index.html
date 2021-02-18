@@ -8,12 +8,26 @@
     <base href="">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" />
+    
+    <script>
+function myFunction() {
+  var node = document.createElement("LI");
+  node.setAttribute("class", "check");
+  var hi = window.localStorage.getItem('check');
+  var textnode = document.createTextNode(hi);
+  node.appendChild(textnode);
+  document.getElementById("myList").appendChild(node);
+}
+</script>
+    
 </head>
 
 <body>
+    <button onclick="myFunction()">Try it</button>
+    
     <div style="padding: 20px;">
         <div style="padding-top: 20px;width: 50%;margin-left: 24%;">
-            <ul class="list-group">
+            <ul id="myList" class="list-group">
                 <li class="list-group-item">
                     <a href="show-time/">Show Time</a>
                 </li>
