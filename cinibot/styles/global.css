@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+* {
+  font-family: "Poppins", sans-serif; }
+
+/*==================================
+======== Global Variables ==========
+==================================== */
+/*==================================
+=========== Global Styles ===========
+==================================== */
+button {
+  outline: none;
+  border: none;
+  background-color: none;
+  letter-spacing: 0.085em;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-weight: 500;
+  border-radius: 5px;
+  transition: 0.2s all linear;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); }
+  button:active {
+    animation-name: jump;
+    animation-duration: 0.1s;
+    animation-play-state: running; }
+  button.icon-btn {
+    padding: 0;
+    box-shadow: none;
+    background-color: transparent;
+    border-radius: 0; }
+  button.text-btn {
+    padding: 0;
+    font-size: 14px;
+    background-color: transparent;
+    box-shadow: none;
+    border-radius: 0; }
+
+.primary-color {
+  color: #2ac2e5; }
+
+.primary-color-bg {
+  background: #2ac2e5;
+  color: #fff; }
+
+.heading-wrapper {
+  width: 100%;
+  text-align: center; }
+  .heading-wrapper h2 {
+    display: inline-block;
+    font-size: 38px;
+    font-weight: 600;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 5px; }
+  .heading-wrapper hr {
+    padding: 0;
+    margin: 0 auto;
+    width: 250px;
+    height: 5px;
+    background-color: #2ac2e5; }
+
+@media (max-width: 1400px) {
+  .heading-wrapper h2 {
+    font-size: 38px; }
+  .heading-wrapper hr {
+    width: 250px;
+    height: 5px; } }
+
+@media (max-width: 890px) {
+  .heading-wrapper h2 {
+    font-size: 28px; }
+  .heading-wrapper hr {
+    width: 200px;
+    height: 3px; } }
+
+@media (max-width: 572px) {
+  .heading-wrapper h2 {
+    font-size: 24px; }
+  .heading-wrapper hr {
+    width: 200px;
+    height: 3px; } }
+
+@keyframes jump {
+  0% {
+    transform: scale(1); }
+  50% {
+    transform: scale(1.05); }
+  100% {
+    transform: scale(1); } }
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0; } }
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg); } }
