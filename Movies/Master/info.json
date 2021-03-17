@@ -8,10 +8,10 @@
     "Director": "Anthony Russo, Joe Russo",
     "Writer": "Christopher Markus, Stephen McFeely, Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Jim Starlin (comic book)",
     "Actors": {
-        "Bradley Cooper":'',
-        "Brie Larson":'',
-        "Chris Hemsworth":'',
-        "Chris Evans":''
+        "Bradley Cooper":'https://klart-digi.github.io/Movies/Master/Bradley%20Cooper.PNG',
+        "Brie Larson":'https://klart-digi.github.io/Movies/Master/Bradley%20Cooper.PNG',
+        "Chris Hemsworth":'https://klart-digi.github.io/Movies/Master/Bradley%20Cooper.PNG',
+        "Chris Evans":'https://klart-digi.github.io/Movies/Master/Bradley%20Cooper.PNG'
     },
     "Plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos' actions and restore order to the universe.",
     "Language": "English",
