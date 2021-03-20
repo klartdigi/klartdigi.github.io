@@ -123,34 +123,44 @@ body {
   right: 0;
   z-index: 3;
   padding: 0px 150px;
-  padding-top: 5px;
-  padding-bottom: 5px;
   transition: 0.2s all ease-in; }
   #header nav {
+    height: 100%;
     width: 100%;
     flex-direction: row;
     display: flex;
     justify-content: space-between;
     align-items: center; }
-    #header nav .branding img {
-      height: 40px;
-      width: auto; }
+    #header nav .branding {
+      padding-top: 10px;
+      padding-bottom: 10px; }
+      #header nav .branding img {
+        height: 40px;
+        width: auto; }
     #header nav .navigations {
-      width: 500px; }
+      width: 500px;
+      height: 60px; }
       #header nav .navigations ul {
+        height: 100%;
         display: flex;
-        justify-content: space-between; }
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 0; }
         #header nav .navigations ul li {
           list-style: none;
-          display: inline; }
+          display: inline;
+          height: 100%; }
+          #header nav .navigations ul li a {
+            height: 100%; }
           #header nav .navigations ul li button {
+            height: 100%;
             color: #c4c4c4;
             font-weight: 400; }
-          #header nav .navigations ul li.active button {
-            border-bottom: 3px solid #2ac2e5;
-            color: #fff;
-            font-weight: 600;
-            padding-bottom: 5px; }
+          #header nav .navigations ul li.active {
+            border-bottom: 4px solid #2ac2e5; }
+            #header nav .navigations ul li.active button {
+              color: #fff;
+              font-weight: 600; }
     #header nav .ham-burger,
     #header nav .mobile-navigation {
       display: none; }
@@ -190,9 +200,10 @@ body {
     #home .wrapper .text-content {
       width: 60%; }
       #home .wrapper .text-content h1 {
-        font-size: 3.8rem;
+        font-size: 2.8rem;
         font-weight: 500;
-        width: 450px; }
+        width: 450px;
+        line-height: 70px; }
       #home .wrapper .text-content button {
         margin-top: 80px; }
     #home .wrapper .illustration {

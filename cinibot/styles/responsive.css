@@ -230,7 +230,8 @@ button {
       margin-top: 20px;
       text-align: center;
       width: 450px;
-      font-size: 30px; }
+      font-size: 30px;
+      line-height: normal; }
     #home .wrapper .text-content button {
       margin-top: 40px;
       padding: 20px 60px; }
