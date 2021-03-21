@@ -1,3 +1,5 @@
-# klart-digi.github.io
+# Klart`Digi Staging Demos
 
-Staging Link - https://klart-digi.github.io/
+[Staging Link](https://klart-digi.github.io/)
+
+Powered by Klart`Digi
