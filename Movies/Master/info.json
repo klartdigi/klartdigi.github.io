@@ -1,0 +1,32 @@
+{
+    "Title": "Avengers: Endgame",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "26 Apr 2019",
+    "Runtime": "N/A",
+    "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+    "Director": "Anthony Russo, Joe Russo",
+    "Writer": "Christopher Markus, Stephen McFeely, Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Jim Starlin (comic book)",
+    "Actors": {
+        "Bradley Cooper":'https://klart-digi.github.io/Movies/Master/Bradley_Cooper.PNG',
+        "Brie Larson":'https://klart-digi.github.io/Movies/Master/Bradley_Cooper.PNG',
+        "Chris Hemsworth":'https://klart-digi.github.io/Movies/Master/Bradley_Cooper.PNG',
+        "Chris Evans":'https://klart-digi.github.io/Movies/Master/Bradley_Cooper.PNG'
+    },
+    "Plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos' actions and restore order to the universe.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://klart-digi.github.io/Movies/Master/poster.jpg",
+    "Ratings": "8.9/10",
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt4154796",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Marvel Studios",
+    "Website": "N/A",
+    "Response": "True"
+}
