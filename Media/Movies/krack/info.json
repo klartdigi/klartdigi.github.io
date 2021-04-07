@@ -1,0 +1,37 @@
+{
+    "Title": "Krack",
+    "Year": "2021",
+    "Rated": "Not Rated",
+    "Released": "08 Jan 2021",
+    "Runtime": "154 min",
+    "Genre": "Action, Thriller",
+    "Director": "Gopichand Malineni",
+    "Writer": "Gopichand Malineni, Sai Madhav Burra (dialogue)",
+    "Actors": {
+        "Ravi Teja":"https://klart-digi.github.io/Movies/actors/Ravi_Teja.jpg",
+        "Shruti Haasan":"https://klart-digi.github.io/Movies/actors/Shruti_Haasan.jpg",
+        "Samuthirakani":"https://klart-digi.github.io/Movies/actors/Samuthirakani.jpg",
+        "Varalaxmi Sarathkumar":"https://klart-digi.github.io/Movies/actors/Varalaxmi_Sarathkumar.jpg"
+    },
+    "Plot": "Krack is an action film which follows Veera Shankar, a hot headed police sergeant, who forms a vicious rivalry with notorious crime figure, Katari Krishna.",
+    "Language": "Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzExZTk0ZjctOGY2Yy00YmVhLWJiNWYtNDcyYjEzMTJhOWU3XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.9",
+    "imdbVotes": "4,161",
+    "imdbID": "tt8302382",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

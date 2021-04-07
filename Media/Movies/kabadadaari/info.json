@@ -1,0 +1,37 @@
+{
+    "Title": "Kabadadaari",
+    "Year": "2021",
+    "Rated": "Not Rated",
+    "Released": "28 Jan 2021",
+    "Runtime": "146 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Pradeep Krishnamoorthy",
+    "Writer": "Hemanth M. Rao (original)",
+    "Actors": {
+        "Sibiraj":"https://klart-digi.github.io/Movies/actors/Sibiraj.jpeg",
+        "Nandita Shwetha":"https://klart-digi.github.io/Movies/actors/Nandita_Shwetha.jpg",
+        "Nassar":"https://klart-digi.github.io/Movies/actors/Nassar.jpeg",
+        "V.Jayaprakash":"https://klart-digi.github.io/Movies/actors/V.Jayaprakash.jpeg"
+    },
+    "Plot": "A passionate traffic police who is bored of his routine job stumbles across some skeletons which ignite his soulless life. When he probes into the case he comes across a cop who had investigated the case in the past.",
+    "Language": "Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGVjODE4ZGEtZGEyNC00YjZiLThkNzctNmJhOGZjYWVhNTkzXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.3",
+    "imdbVotes": "525",
+    "imdbID": "tt11468156",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

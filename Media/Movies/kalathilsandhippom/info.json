@@ -1,0 +1,37 @@
+{
+    "Title": "Kalathil Sandhippom",
+    "Year": "2021",
+    "Rated": "N/A",
+    "Released": "05 Feb 2021",
+    "Runtime": "138 min",
+    "Genre": "Drama, Sport",
+    "Director": "N. Rajasekar",
+    "Writer": "N/A",
+    "Actors": {
+        "Arulnithi":"https://klart-digi.github.io/Movies/actors/Arulnithi.jpg",
+        "Jiiva":"https://klart-digi.github.io/Movies/actors/Jiiva.jpg",
+        "Manjima Mohan":"https://klart-digi.github.io/Movies/actors/Manjima_Mohan.jpg",
+        "Aadukalam Naren":"https://klart-digi.github.io/Movies/actors/Aadukalam_Naren.jpg"
+    },
+    "Plot": "The story of two friends, Anand and Ashok, story revolving around them on their love, sports, family bondings.",
+    "Language": "Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjE4ZWFhNmQtY2I2Yy00ZjFhLWJiODYtMWViNjFiOGIxYjUzXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.6",
+    "imdbVotes": "173",
+    "imdbID": "tt8144782",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

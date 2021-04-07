@@ -1,0 +1,37 @@
+{
+    "Title": "Eeswaran",
+    "Year": "2021",
+    "Rated": "Not Rated",
+    "Released": "14 Jan 2021",
+    "Runtime": "130 min",
+    "Genre": "Action, Drama",
+    "Director": "Suseenthiran",
+    "Writer": "Suseenthiran",
+    "Actors": {
+        "T.R.Silambarasan":"https://klart-digi.github.io/Movies/actors/T.R.Silambarasan.jpg",
+        "Bharathiraja":"https://klart-digi.github.io/Movies/actors/Bharathiraja.jpeg",
+        "Nidhhi Agerwal":"https://klart-digi.github.io/Movies/actors/Nidhhi_Agerwal.jpg",
+        "Nandita Shwetha":"https://klart-digi.github.io/Movies/actors/Nandita_Shwetha.jpg"
+    },
+    "Plot": "Eeswaran tells the story of Periyasamy whose simple and joyous life turns into a nightmare with internal familial disputes.",
+    "Language": "Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmUxMzU4MTctNWJlZS00ZGUxLWJjMWItYWYyYmU2MDhhYTM2XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.1/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.1",
+    "imdbVotes": "1,911",
+    "imdbID": "tt13350412",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

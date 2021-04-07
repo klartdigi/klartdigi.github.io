@@ -1,0 +1,37 @@
+{
+    "Title": "Trip",
+    "Year": "2021",
+    "Rated": "N/A",
+    "Released": "05 Feb 2021",
+    "Runtime": "121 min",
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Director": "Dennis Manjunath",
+    "Writer": "N/A",
+    "Actors": "Yogi Babu, Karunakaran, Sunaina",
+    "Actors": {
+        "Yogi Babu":"https://klart-digi.github.io/Movies/actors/Yogi_Babu.jpg",
+        "Karunakaran":"https://klart-digi.github.io/Movies/actors/Karunakaran.jpg",
+        "Sunaina":"https://klart-digi.github.io/Movies/actors/Sunaina.jpg",
+    },
+    "Plot": "A group of friends traveling in a dense forest accidentally meet two strangers, who they think are the killers. Things get complicated when they get caught by real killers.",
+    "Language": "Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ0ZjkzMWQtYzc5My00YjhmLThjZWItZGU3NTZiZmNhYjE1XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.4/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.4",
+    "imdbVotes": "108",
+    "imdbID": "tt11444698",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
