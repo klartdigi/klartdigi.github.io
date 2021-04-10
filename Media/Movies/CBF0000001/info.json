@@ -1,10 +1,13 @@
 {
     "Title": "Master",
     "Year": "2021",
-    "Rated": "Not Rated",
+    "Rated": "4.5",
     "ReleaseDate": "13 Jan 2021",
-    "Runtime": 179,
+    "Runtime": "2hrs 30mins",
     "Genre": "Action, Thriller",
+    "Trailer":"https://www.youtube.com/watch?v=UTiXQcrLlv4",
+    "Tomotometer":"77%",
+    "AudienceScore":"77%", 
     "Director": "Lokesh Kanagaraj",
     "Writer": "Lokesh Kanagaraj, Pon Parthiban (dialogue), Rathna Kumar (dialogue), Lokesh Kanagaraj (dialogue)",
     "Actors": {
