@@ -3,7 +3,7 @@
     "Year": "2021",
     "Rated": "N/A",
     "ReleaseDate": "05 Feb 2021",
-    "Runtime": "138 min",
+    "Runtime": 138,
     "Genre": "Drama, Sport",
     "Director": "N. Rajasekar",
     "Writer": "N/A",
@@ -30,9 +30,9 @@
     "imdbID": "tt8144782",
     "ShortName":"master",
     "Content":"",
-    "TrailerUrl": "",
-    "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000001/poster.jpg",
-    "bannerUrl":"https://klart-digi.github.io/Media/Movies/CBF0000001/poster.jpg",
+    "TrailerUrl": "https://www.youtube.com/watch?v=aEBhUqhU2oo",
+    "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000005/poster.jpg",
+    "bannerUrl":"https://klart-digi.github.io/Media/Movies/CBF0000005/banner.png",
     "Tomotometer":"77%",
     "AudienceScore":"77%"
 }
