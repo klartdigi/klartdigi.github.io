@@ -2,7 +2,7 @@
     "Title": "Trip",
     "Year": "2021",
     "Rated": "N/A",
-    "Released": "05 Feb 2021",
+    "ReleaseDate": "05 Feb 2021",
     "Runtime": "121 min",
     "Genre": "Horror, Sci-Fi, Thriller",
     "Director": "Dennis Manjunath",
@@ -13,7 +13,7 @@
         "Karunakaran":"https://klart-digi.github.io/Movies/actors/Karunakaran.jpg",
         "Sunaina":"https://klart-digi.github.io/Movies/actors/Sunaina.jpg",
     },
-    "Plot": "A group of friends traveling in a dense forest accidentally meet two strangers, who they think are the killers. Things get complicated when they get caught by real killers.",
+    "Description": "A group of friends traveling in a dense forest accidentally meet two strangers, who they think are the killers. Things get complicated when they get caught by real killers.",
     "Language": "Tamil",
     "Country": "India",
     "Awards": "N/A",
@@ -28,10 +28,9 @@
     "imdbRating": "4.4",
     "imdbVotes": "108",
     "imdbID": "tt11444698",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "ShortName":"master",
+    "Content":"",
+    "TrailerUrl": "",
+    "PosterUrl": "",
+    "bannerUrl":""
 }

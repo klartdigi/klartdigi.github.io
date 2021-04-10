@@ -2,8 +2,8 @@
     "Title": "Wonder Woman",
     "Year": "2017",
     "Rated": "PG-13",
-    "Released": "02 Jun 2017",
-    "Runtime": "141 min",
+    "ReleaseDateate": "02 Jun 2017",
+    "Runtime": 141,
     "Genre": "Action, Adventure, Fantasy, Sci-Fi, War",
     "Director": "Patty Jenkins",
     "Writer": "Allan Heinberg (screenplay by), Zack Snyder (story by), Allan Heinberg (story by), Jason Fuchs (story by), William Moulton Marston (Wonder Woman created by)",
@@ -13,7 +13,7 @@
         "Connie Nielsen":"https://klart-digi.github.io/Movies/actors/Connie_Nielsen.jpg",
         "Robin Wright":"https://klart-digi.github.io/Movies/actors/Robin_Wright.jpg"
     },
-    "Plot": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+    "Description": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
     "Language": "English, German, Dutch, French, Spanish, Chinese, Greek, Ancient (to 1453), North American Indian",
     "Country": "USA, UK",
     "Awards": "25 wins & 71 nominations.",
@@ -36,10 +36,9 @@
     "imdbRating": "7.4",
     "imdbVotes": "575,048",
     "imdbID": "tt0451279",
-    "Type": "movie",
-    "DVD": "10 Jul 2017",
-    "BoxOffice": "$412,815,408",
-    "Production": "Atlas Entertainment, Cruel and Unusual",
-    "Website": "N/A",
-    "Response": "True"
+    "ShortName":"Wonder women",
+    "Content":"Wonder women",
+    "TrailerUrl": "https://www.youtube.com/watch?v=XW2E2Fnh52w",
+    "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000002/poster.jpg",
+    "bannerUrl":"https://klart-digi.github.io/Media/Movies/CBF0000002/banner.jpg"
 }

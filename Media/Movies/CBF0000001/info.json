@@ -1,8 +1,8 @@
 {
     "Title": "Master",
     "Year": "2021",
-    "Rated": "Not Rated",
-    "ReleaseDate": "13 Jan 2021",
+    "Rated": "4.5",
+    "ReleaseDateate": "13 Jan 2021",
     "Runtime": 179,
     "Genre": "Action, Thriller",
     "Director": "Lokesh Kanagaraj",
@@ -23,13 +23,14 @@
             "Value": "7.1/10"
         }
     ],
-    "Metascore": "N/A",
     "imdbRating": "7.1",
     "imdbVotes": "50,795",
     "imdbID": "tt10579952",
-    "ShortName":"master",
-    "Content":"",
-    "TrailerUrl": "",
-    "PosterUrl": "https://m.media-amazon.com/images/M/MV5BYWQxODNlMjktNjU3Yi00OTFmLTgyOTgtZDVhNDY5NzMwMmYwXkEyXkFqcGdeQXVyMTIwNjE1MTk0._V1_SX300.jpg",
-    "bannerUrl":""
+    "ShortName":"Master",
+    "Content":"Master",
+    "TrailerUrl": "https://www.youtube.com/watch?v=UTiXQcrLlv4",
+    "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000001/poster.jpg",
+    "bannerUrl":"https://klart-digi.github.io/Media/Movies/CBF0000001/poster.jpg",
+    "Tomotometer":"77%",
+    "AudienceScore":"77%"
 }

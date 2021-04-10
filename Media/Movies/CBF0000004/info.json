@@ -2,7 +2,7 @@
     "Title": "Kabadadaari",
     "Year": "2021",
     "Rated": "Not Rated",
-    "Released": "28 Jan 2021",
+    "ReleaseDate": "28 Jan 2021",
     "Runtime": "146 min",
     "Genre": "Crime, Drama, Thriller",
     "Director": "Pradeep Krishnamoorthy",
@@ -13,7 +13,7 @@
         "Nassar":"https://klart-digi.github.io/Movies/actors/Nassar.jpeg",
         "V.Jayaprakash":"https://klart-digi.github.io/Movies/actors/V.Jayaprakash.jpeg"
     },
-    "Plot": "A passionate traffic police who is bored of his routine job stumbles across some skeletons which ignite his soulless life. When he probes into the case he comes across a cop who had investigated the case in the past.",
+    "Description": "A passionate traffic police who is bored of his routine job stumbles across some skeletons which ignite his soulless life. When he probes into the case he comes across a cop who had investigated the case in the past.",
     "Language": "Tamil",
     "Country": "India",
     "Awards": "N/A",
@@ -28,10 +28,9 @@
     "imdbRating": "6.3",
     "imdbVotes": "525",
     "imdbID": "tt11468156",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "ShortName":"master",
+    "Content":"",
+    "TrailerUrl": "",
+    "PosterUrl": "",
+    "bannerUrl":""
 }

@@ -2,7 +2,7 @@
     "Title": "Krack",
     "Year": "2021",
     "Rated": "Not Rated",
-    "Released": "08 Jan 2021",
+    "ReleaseDate": "08 Jan 2021",
     "Runtime": "154 min",
     "Genre": "Action, Thriller",
     "Director": "Gopichand Malineni",
@@ -13,7 +13,7 @@
         "Samuthirakani":"https://klart-digi.github.io/Movies/actors/Samuthirakani.jpg",
         "Varalaxmi Sarathkumar":"https://klart-digi.github.io/Movies/actors/Varalaxmi_Sarathkumar.jpg"
     },
-    "Plot": "Krack is an action film which follows Veera Shankar, a hot headed police sergeant, who forms a vicious rivalry with notorious crime figure, Katari Krishna.",
+    "Description": "Krack is an action film which follows Veera Shankar, a hot headed police sergeant, who forms a vicious rivalry with notorious crime figure, Katari Krishna.",
     "Language": "Tamil",
     "Country": "India",
     "Awards": "N/A",
@@ -28,10 +28,9 @@
     "imdbRating": "6.9",
     "imdbVotes": "4,161",
     "imdbID": "tt8302382",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
+    "ShortName":"master",
+    "Content":"",
+    "TrailerUrl": "",
+    "PosterUrl": "",
+    "bannerUrl":""
 }
