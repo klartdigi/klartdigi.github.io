@@ -1,0 +1,37 @@
+{
+    "Title": "Master",
+    "Year": "2021",
+    "Rated": "Not Rated",
+    "Released": "13 Jan 2021",
+    "Runtime": "179 min",
+    "Genre": "Action, Thriller",
+    "Director": "Lokesh Kanagaraj",
+    "Writer": "Lokesh Kanagaraj, Pon Parthiban (dialogue), Rathna Kumar (dialogue), Lokesh Kanagaraj (dialogue)",
+    "Actors": {
+        "Joseph Vijay":"https://klart-digi.github.io/Movies/actors/Joseph_Vijay.jpg",
+        "Vijay Sethupathi":"https://klart-digi.github.io/Movies/actors/Vijay_Sethupathi.jpg",
+        "Malavika Mohanan":"https://klart-digi.github.io/Movies/actors/Malavika_Mohanan.jpg",
+        "Andrea Jeremiah":"https://klart-digi.github.io/Movies/actors/Andrea_Jeremiah.jpg"
+    },
+    "Plot": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster who uses the school children for criminal activities.",
+    "Language": "Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWQxODNlMjktNjU3Yi00OTFmLTgyOTgtZDVhNDY5NzMwMmYwXkEyXkFqcGdeQXVyMTIwNjE1MTk0._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.1",
+    "imdbVotes": "50,795",
+    "imdbID": "tt10579952",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
