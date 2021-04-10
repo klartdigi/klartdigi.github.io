@@ -28,9 +28,11 @@
     "imdbRating": "4.1",
     "imdbVotes": "1,911",
     "imdbID": "tt13350412",
-    "ShortName":"master",
-    "Content":"",
-    "TrailerUrl": "",
-    "PosterUrl": "",
-    "bannerUrl":""
+    "ShortName":"Eeswaran",
+    "Content":"Eeswaran",
+    "TrailerUrl": "https://www.youtube.com/watch?v=LDfuP0YeIQk",
+    "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000001/poster.jp",
+    "bannerUrl":"https://klart-digi.github.io/Media/Movies/CBF0000001/poster.jp",
+    "Tomotometer":"77%",
+    "AudienceScore":"77%"
 }
