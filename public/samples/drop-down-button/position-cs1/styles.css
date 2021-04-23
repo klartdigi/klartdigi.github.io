@@ -1,0 +1,20 @@
+#container {
+    visibility: hidden;
+}
+
+#loader {
+  color: #008cff;
+  height: 40px;
+  left: 45%;
+  position: absolute;
+  top: 45%;
+  width: 30%;
+}
+
+button {
+  margin: 25% 5px 20px 30%;
+}
+
+.e-caret-up .e-caret::before {
+  content: '\e918';
+}

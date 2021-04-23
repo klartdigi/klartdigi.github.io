@@ -1,0 +1,22 @@
+.e-reverse-progress .e-progress {
+  right: 0;
+  left: auto;
+}
+
+button {
+  margin: 25px;
+}
+
+#container {
+    visibility: hidden;
+}
+
+#loader {
+  color: #008cff;
+  height: 40px;
+  left: 45%;
+  position: absolute;
+  top: 45%;
+  width: 30%;
+}
+
