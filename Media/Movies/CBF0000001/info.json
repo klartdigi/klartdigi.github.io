@@ -5,13 +5,18 @@
     "ReleaseDate": "02 Jun 2017",
     "Runtime": 179,
     "Genre": "Action, Thriller",
-    "Director": "Lokesh Kanagaraj",
+    "Director": {
+        "Lokesh Kanagaraj":"https://klart-digi.github.io/Movies/actors/Gal_Gadot.jpg"
+    },
+    "Producer": {
+        "Xavier Britto":"https://klart-digi.github.io/Movies/actors/Gal_Gadot.jpg"
+    },
     "Writer": "Lokesh Kanagaraj, Pon Parthiban (dialogue), Rathna Kumar (dialogue), Lokesh Kanagaraj (dialogue)",
     "Actors": {
-        "Joseph Vijay":"https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Joseph_Vijay.jpg",
-        "Vijay Sethupathi":"https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Vijay_Sethupathi.jpg",
-        "Malavika Mohanan":"https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Malavika_Mohanan.jpg",
-        "Andrea Jeremiah":"https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Andrea_Jeremiah.jpg"
+        "Joseph Vijay":"https://klart-digi.github.io/Movies/actors/Gal_Gadot.jpg",
+        "Vijay Sethupathi":"https://klart-digi.github.io/Movies/actors/Chris_Pine.jpg",
+        "Malavika Mohanan":"https://klart-digi.github.io/Movies/actors/Connie_Nielsen.jpg",
+        "Arjun Das":"https://klart-digi.github.io/Movies/actors/Robin_Wright.jpg"
     },
     "Description": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster who uses the school children for criminal activities.",
     "Language": "Tamil",
