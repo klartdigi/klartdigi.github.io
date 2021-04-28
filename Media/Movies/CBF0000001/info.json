@@ -6,17 +6,17 @@
     "Runtime": 179,
     "Genre": "Action, Thriller",
     "Director": {
-        "Lokesh Kanagaraj":"https://klart-digi.github.io/Movies/actors/Gal_Gadot.jpg"
+        "Lokesh Kanagaraj": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Lokesh_Kanagaraj.jpg"
     },
     "Producer": {
-        "Xavier Britto":"https://klart-digi.github.io/Movies/actors/Gal_Gadot.jpg"
+        "Xavier Britto": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Xavier_Britto.jpg"
     },
     "Writer": "Lokesh Kanagaraj, Pon Parthiban (dialogue), Rathna Kumar (dialogue), Lokesh Kanagaraj (dialogue)",
     "Actors": {
-        "Joseph Vijay":"https://klart-digi.github.io/Movies/actors/Gal_Gadot.jpg",
-        "Vijay Sethupathi":"https://klart-digi.github.io/Movies/actors/Chris_Pine.jpg",
-        "Malavika Mohanan":"https://klart-digi.github.io/Movies/actors/Connie_Nielsen.jpg",
-        "Arjun Das":"https://klart-digi.github.io/Movies/actors/Robin_Wright.jpg"
+        "Joseph Vijay": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Joseph_Vijay.jpg",
+        "Vijay Sethupathi": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Vijay_Sethupathi.jpg",
+        "Malavika Mohanan": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Malavika_Mohanan.jpg",
+        "Arjun Das": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Arjun_Das.jpg"
     },
     "Description": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster who uses the school children for criminal activities.",
     "Language": "Tamil",
@@ -31,11 +31,11 @@
     "imdbRating": "7.1",
     "imdbVotes": "50,795",
     "imdbID": "tt10579952",
-    "ShortName":"Master",
-    "Content":"Master",
+    "ShortName": "Master",
+    "Content": "Master",
     "TrailerUrl": "https://www.youtube.com/watch?v=UTiXQcrLlv4",
     "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000001/poster.jpg",
-    "bannerUrl":"https://klart-digi.github.io/Media/Movies/CBF0000001/banner.png",
-    "Tomotometer":"77%",
-    "AudienceScore":"77%"
+    "bannerUrl": "https://klart-digi.github.io/Media/Movies/CBF0000001/banner.png",
+    "Tomotometer": "77%",
+    "AudienceScore": "77%"
 }

@@ -8,10 +8,10 @@
     "Director": "Gopichand Malineni",
     "Writer": "Gopichand Malineni, Sai Madhav Burra (dialogue)",
     "Actors": {
-        "Ravi Teja":"https://klart-digi.github.io/Movies/actors/Ravi_Teja.jpg",
-        "Shruti Haasan":"https://klart-digi.github.io/Movies/actors/Shruti_Haasan.jpg",
-        "Samuthirakani":"https://klart-digi.github.io/Movies/actors/Samuthirakani.jpg",
-        "Varalaxmi Sarathkumar":"https://klart-digi.github.io/Movies/actors/Varalaxmi_Sarathkumar.jpg"
+        "Ravi Teja": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Ravi_Teja.jpg",
+        "Shruti Haasan": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Shruti_Haasan.jpg",
+        "Samuthirakani": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Samuthirakani.jpg",
+        "Varalaxmi Sarathkumar": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Varalaxmi_Sarathkumar.jpg"
     },
     "Description": "Krack is an action film which follows Veera Shankar, a hot headed police sergeant, who forms a vicious rivalry with notorious crime figure, Katari Krishna.",
     "Language": "Tamil",
@@ -28,11 +28,11 @@
     "imdbRating": "6.9",
     "imdbVotes": "4,161",
     "imdbID": "tt8302382",
-    "ShortName":"Krack",
-    "Content":"Krack",
+    "ShortName": "Krack",
+    "Content": "Krack",
     "TrailerUrl": "https://www.youtube.com/watch?v=EAvpSWmoPSA",
     "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000008/poster.jpg",
-    "bannerUrl":"https://klart-digi.github.io/Media/Movies/CBF0000008/banner.png",
-    "Tomotometer":"77%",
-    "AudienceScore":"77%"
+    "bannerUrl": "https://klart-digi.github.io/Media/Movies/CBF0000008/banner.png",
+    "Tomotometer": "77%",
+    "AudienceScore": "77%"
 }

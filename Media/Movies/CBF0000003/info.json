@@ -8,10 +8,10 @@
     "Director": "Suseenthiran",
     "Writer": "Suseenthiran",
     "Actors": {
-        "T.R.Silambarasan":"https://klart-digi.github.io/Movies/actors/T.R.Silambarasan.jpg",
-        "Bharathiraja":"https://klart-digi.github.io/Movies/actors/Bharathiraja.jpeg",
-        "Nidhhi Agerwal":"https://klart-digi.github.io/Movies/actors/Nidhhi_Agerwal.jpg",
-        "Nandita Shwetha":"https://klart-digi.github.io/Movies/actors/Nandita_Shwetha.jpg"
+        "T.R.Silambarasan": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/T.R.Silambarasan.jpg",
+        "Bharathiraja": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Bharathiraja.jpeg",
+        "Nidhhi Agerwal": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Nidhhi_Agerwal.jpg",
+        "Nandita Shwetha": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Nandita_Shwetha.jpg"
     },
     "Description": "Eeswaran tells the story of Periyasamy whose simple and joyous life turns into a nightmare with internal familial disputes.",
     "Language": "Tamil",
@@ -28,11 +28,11 @@
     "imdbRating": "4.1",
     "imdbVotes": "1,911",
     "imdbID": "tt13350412",
-    "ShortName":"Eeswaran",
-    "Content":"Eeswaran",
+    "ShortName": "Eeswaran",
+    "Content": "Eeswaran",
     "TrailerUrl": "https://www.youtube.com/watch?v=LDfuP0YeIQk",
     "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000003/poster.jp",
-    "bannerUrl":"https://klart-digi.github.io/Media/Movies/CBF0000003/banner.jp",
-    "Tomotometer":"77%",
-    "AudienceScore":"77%"
+    "bannerUrl": "https://klart-digi.github.io/Media/Movies/CBF0000003/banner.jp",
+    "Tomotometer": "77%",
+    "AudienceScore": "77%"
 }

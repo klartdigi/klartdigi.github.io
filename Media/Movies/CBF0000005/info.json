@@ -8,10 +8,10 @@
     "Director": "N. Rajasekar",
     "Writer": "N/A",
     "Actors": {
-        "Arulnithi":"https://klart-digi.github.io/Movies/actors/Arulnithi.jpg",
-        "Jiiva":"https://klart-digi.github.io/Movies/actors/Jiiva.jpg",
-        "Manjima Mohan":"https://klart-digi.github.io/Movies/actors/Manjima_Mohan.jpg",
-        "Aadukalam Naren":"https://klart-digi.github.io/Movies/actors/Aadukalam_Naren.jpg"
+        "Arulnithi": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Arulnithi.jpg",
+        "Jiiva": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Jiiva.jpg",
+        "Manjima Mohan": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Manjima_Mohan.jpg",
+        "Aadukalam Naren": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Aadukalam_Naren.jpg"
     },
     "Description": "The story of two friends, Anand and Ashok, story revolving around them on their love, sports, family bondings.",
     "Language": "Tamil",
@@ -28,11 +28,11 @@
     "imdbRating": "6.6",
     "imdbVotes": "173",
     "imdbID": "tt8144782",
-    "ShortName":"master",
-    "Content":"",
+    "ShortName": "master",
+    "Content": "",
     "TrailerUrl": "https://www.youtube.com/watch?v=aEBhUqhU2oo",
     "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000005/poster.jpg",
-    "bannerUrl":"https://klart-digi.github.io/Media/Movies/CBF0000005/banner.png",
-    "Tomotometer":"77%",
-    "AudienceScore":"77%"
+    "bannerUrl": "https://klart-digi.github.io/Media/Movies/CBF0000005/banner.png",
+    "Tomotometer": "77%",
+    "AudienceScore": "77%"
 }

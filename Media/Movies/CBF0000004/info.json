@@ -8,10 +8,10 @@
     "Director": "Pradeep Krishnamoorthy",
     "Writer": "Hemanth M. Rao (original)",
     "Actors": {
-        "Sibiraj":"https://klart-digi.github.io/Movies/actors/Sibiraj.jpeg",
-        "Nandita Shwetha":"https://klart-digi.github.io/Movies/actors/Nandita_Shwetha.jpg",
-        "Nassar":"https://klart-digi.github.io/Movies/actors/Nassar.jpeg",
-        "V.Jayaprakash":"https://klart-digi.github.io/Movies/actors/V.Jayaprakash.jpeg"
+        "Sibiraj": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Sibiraj.jpeg",
+        "Nandita Shwetha": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Nandita_Shwetha.jpg",
+        "Nassar": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Nassar.jpeg",
+        "V.Jayaprakash": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/V.Jayaprakash.jpeg"
     },
     "Description": "A passionate traffic police who is bored of his routine job stumbles across some skeletons which ignite his soulless life. When he probes into the case he comes across a cop who had investigated the case in the past.",
     "Language": "Tamil",
@@ -28,11 +28,11 @@
     "imdbRating": "6.3",
     "imdbVotes": "525",
     "imdbID": "tt11468156",
-    "ShortName":"Kabadadaari",
-    "Content":"Kabadadaari",
+    "ShortName": "Kabadadaari",
+    "Content": "Kabadadaari",
     "TrailerUrl": "https://www.youtube.com/watch?v=lPLhnLqbzb8",
     "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000004/poster.jpg",
-    "bannerUrl":"https://klart-digi.github.io/Media/Movies/CBF0000004/banner.png",
-    "Tomotometer":"77%",
-    "AudienceScore":"77%"
+    "bannerUrl": "https://klart-digi.github.io/Media/Movies/CBF0000004/banner.png",
+    "Tomotometer": "77%",
+    "AudienceScore": "77%"
 }
