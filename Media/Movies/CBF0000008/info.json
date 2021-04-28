@@ -5,13 +5,20 @@
     "ReleaseDate": "08 Jan 2021",
     "Runtime": 154,
     "Genre": "Action, Thriller",
-    "Director": "Gopichand Malineni",
+    "Director": {
+        "name" : "Gopichand Malineni",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/Lokesh_Kanagaraj.jpg"
+    },
+    "Producer": {
+        "name" : "kumaresan",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/Xavier_Britto.jpg"
+    },
     "Writer": "Gopichand Malineni, Sai Madhav Burra (dialogue)",
     "Actors": {
-        "Ravi Teja": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Ravi_Teja.jpg",
-        "Shruti Haasan": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Shruti_Haasan.jpg",
-        "Samuthirakani": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Samuthirakani.jpg",
-        "Varalaxmi Sarathkumar": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Varalaxmi_Sarathkumar.jpg"
+        "Ravi Teja": "https://klart-digi.github.io/Media/actors/Ravi_Teja.jpg",
+        "Shruti Haasan": "https://klart-digi.github.io/Media/actors/Shruti_Haasan.jpg",
+        "Samuthirakani": "https://klart-digi.github.io/Media/actors/Samuthirakani.jpg",
+        "Varalaxmi Sarathkumar": "https://klart-digi.github.io/Media/actors/Varalaxmi_Sarathkumar.jpg"
     },
     "Description": "Krack is an action film which follows Veera Shankar, a hot headed police sergeant, who forms a vicious rivalry with notorious crime figure, Katari Krishna.",
     "Language": "Tamil",

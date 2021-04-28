@@ -6,17 +6,19 @@
     "Runtime": 179,
     "Genre": "Action, Thriller",
     "Director": {
-        "Lokesh Kanagaraj": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Lokesh_Kanagaraj.jpg"
+        "name" : "Lokesh Kanagaraj",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/Lokesh_Kanagaraj.jpg"
     },
     "Producer": {
-        "Xavier Britto": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Xavier_Britto.jpg"
+        "name" : "kumaresan",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/Xavier_Britto.jpg"
     },
     "Writer": "Lokesh Kanagaraj, Pon Parthiban (dialogue), Rathna Kumar (dialogue), Lokesh Kanagaraj (dialogue)",
     "Actors": {
-        "Joseph Vijay": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Joseph_Vijay.jpg",
-        "Vijay Sethupathi": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Vijay_Sethupathi.jpg",
-        "Malavika Mohanan": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Malavika_Mohanan.jpg",
-        "Arjun Das": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Arjun_Das.jpg"
+        "Joseph Vijay": "https://klart-digi.github.io/Media/actors/Joseph_Vijay.jpg",
+        "Vijay Sethupathi": "https://klart-digi.github.io/Media/actors/Vijay_Sethupathi.jpg",
+        "Malavika Mohanan": "https://klart-digi.github.io/Media/actors/Malavika_Mohanan.jpg",
+        "Arjun Das": "https://klart-digi.github.io/Media/actors/Arjun_Das.jpg"
     },
     "Description": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster who uses the school children for criminal activities.",
     "Language": "Tamil",

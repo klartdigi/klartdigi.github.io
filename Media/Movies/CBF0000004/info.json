@@ -5,13 +5,20 @@
     "ReleaseDate": "28 Jan 2021",
     "Runtime": 146,
     "Genre": "Crime, Drama, Thriller",
-    "Director": "Pradeep Krishnamoorthy",
+    "Director": {
+        "name" : "Pradeep Krishnamoorthy",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/Lokesh_Kanagaraj.jpg"
+    },
+    "Producer": {
+        "name" : "kumaresan",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/Xavier_Britto.jpg"
+    },
     "Writer": "Hemanth M. Rao (original)",
     "Actors": {
-        "Sibiraj": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Sibiraj.jpeg",
-        "Nandita Shwetha": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Nandita_Shwetha.jpg",
-        "Nassar": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Nassar.jpeg",
-        "V.Jayaprakash": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/V.Jayaprakash.jpeg"
+        "Sibiraj": "https://klart-digi.github.io/Media/actors/Sibiraj.jpeg",
+        "Nandita Shwetha": "https://klart-digi.github.io/Media/actors/Nandita_Shwetha.jpg",
+        "Nassar": "https://klart-digi.github.io/Media/actors/Nassar.jpeg",
+        "V.Jayaprakash": "https://klart-digi.github.io/Media/actors/V.Jayaprakash.jpeg"
     },
     "Description": "A passionate traffic police who is bored of his routine job stumbles across some skeletons which ignite his soulless life. When he probes into the case he comes across a cop who had investigated the case in the past.",
     "Language": "Tamil",

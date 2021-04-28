@@ -5,13 +5,20 @@
     "ReleaseDate": "05 Feb 2021",
     "Runtime": 138,
     "Genre": "Drama, Sport",
-    "Director": "N. Rajasekar",
+    "Director": {
+        "name" : "N. Rajasekar",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/Lokesh_Kanagaraj.jpg"
+    },
+    "Producer": {
+        "name" : "kumaresan",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/Xavier_Britto.jpg"
+    },
     "Writer": "N/A",
     "Actors": {
-        "Arulnithi": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Arulnithi.jpg",
-        "Jiiva": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Jiiva.jpg",
-        "Manjima Mohan": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Manjima_Mohan.jpg",
-        "Aadukalam Naren": "https://raw.githubusercontent.com/Klart-Digi/klart-digi.github.io/main/Media/actors/Aadukalam_Naren.jpg"
+        "Arulnithi": "https://klart-digi.github.io/Media/actors/Arulnithi.jpg",
+        "Jiiva": "https://klart-digi.github.io/Media/actors/Jiiva.jpg",
+        "Manjima Mohan": "https://klart-digi.github.io/Media/actors/Manjima_Mohan.jpg",
+        "Aadukalam Naren": "https://klart-digi.github.io/Media/actors/Aadukalam_Naren.jpg"
     },
     "Description": "The story of two friends, Anand and Ashok, story revolving around them on their love, sports, family bondings.",
     "Language": "Tamil",
