@@ -1,38 +1,32 @@
 [
     {
         "name": "KGF 2",
-        "HOCode": "NML0000001",
-        "url": "",
+        "HOCode": "CBF0000009",
         "rating": "U/A"
     },
     {
         "name": "Karnan",
-        "HOCode": "NML0000002",
-        "url": "",
+        "HOCode": "CBF0000010",
         "rating": "U/A"
     },
     {
         "name": "Cobra",
-        "HOCode": "NML0000003",
-        "url": "",
+        "HOCode": "CBF0000011",
         "rating": "U/A"
     },
     {
         "name": "Maanadu",
-        "HOCode": "NML0000004",
-        "url": "",
+        "HOCode": "CBF0000012",
         "rating": "U/A"
     },
     {
         "name": "Doctor",
-        "HOCode": "NML0000005",
-        "url": "",
+        "HOCode": "CBF0000013",
         "rating": "U/A"
     },
     {
         "name": "RRR",
-        "HOCode": "NML0000006",
-        "url": "",
+        "HOCode": "CBF0000014",
         "rating": "U/A"
     }
 ]
