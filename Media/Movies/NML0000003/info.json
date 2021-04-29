@@ -1,0 +1,44 @@
+
+{
+    "Title": "Cobra",
+    "Year": "2021",
+    "Rated": "N/A",
+    "Released": "01 Apr 2020",
+    "Runtime": "N/A",
+    "Genre": "Crime, Thriller",
+    "Director": {
+        "name": "R. Ajay Gnanamuthu",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/R. Ajay Gnanamuthu.jpg"
+    },
+    "Producer": {
+        "name": "Ajit Andhare",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/Thanu.jpg"
+    },
+    "Writer": "R. Ajay Gnanamuthu (Writer), Kannan (dialogue writer), Sekar Neelan (dialogue writer)",
+    "Actors": {
+        "Vikram": "https://klart-digi.github.io/Media/actors/Vikram.jpg",
+        "Irfan Pathan": "https://klart-digi.github.io/Media/actors/Pathan.jpg",
+        "Srinidhi Shetty": "https://klart-digi.github.io/Media/actors/Srinidhi Shetty.jpg",
+        "K.S. Ravikumar": "https://klart-digi.github.io/Media/actors/K.S Ravikumar.jpg"
+    },
+    "Description": "A Psychological Thriller",
+    "Language": "Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt9466814",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "TrailerUrl": "https://www.youtube.com/watch?v=UTiXQcrLlv4",
+    "PosterUrl": "https://klart-digi.github.io/Media/Movies/NML0000003/poster.jpg",
+    "bannerUrl": "https://klart-digi.github.io/Media/Movies/NML0000003/banner.png",
+    "Tomotometer": "77%",
+    "AudienceScore": "77%"
+}
