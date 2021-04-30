@@ -1,0 +1,46 @@
+
+
+{
+    "Title": "RRR",
+    "Year": "2021",
+    "Rated": "N/A",
+    "Released": "13 Oct 2021",
+    "Runtime": "N/A",
+    "Genre": "Action, Drama",
+    "Director": {
+        "name": "S.S. Rajamouli",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/S.S. Rajamouli.jpg"
+    },
+    "Producer": {
+        "name": "DVV Danayya",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/DVV Danayya.jpg"
+    },
+    "Writer": "Vijayendra Prasad (story), Sai Madhav Burra (telugu dialogue), Madhan Karky (tamil dialogue), S.S. Rajamouli (screenplay), Riya Mukherjee (hindi dialogue)",
+    "Actors": {
+        "N.T. Rama Rao Jr.": "https://klart-digi.github.io/Media/actors/NT Rama Rao Jr.jpg",
+        "Ram Charan": "https://klart-digi.github.io/Media/actors/Ram Charan Teja.jpg",
+        "Ajay Devgn": "https://klart-digi.github.io/Media/actors/Ajay Devgn.jpg",
+        "Alia Bhatt": "https://klart-digi.github.io/Media/actors/Alia Bhatt.jpg"
+    },
+    "Description": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in 1920's.",
+    "Language": "Telugu, Hindi, Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmY5ZDM4YjAtNGM5ZS00NzkwLTlmNGMtMGVjMjBiOTc5MjRlXkEyXkFqcGdeQXVyNzI4NjYyMzk@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt8178634",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "TrailerUrl": "https://www.youtube.com/watch?v=UTiXQcrLlv4",
+    "PosterUrl": "https://klart-digi.github.io/Media/Movies/NML0000006/poster.jpg",
+    "bannerUrl": "https://klart-digi.github.io/Media/Movies/NML0000006/banner.png",
+    "Tomotometer": "77%",
+    "AudienceScore": "77%"
+}

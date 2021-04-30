@@ -1,25 +1,38 @@
-[{
-"name":"Master",
-"HOCode":"CBF0000001",
-"url":"",
-"rating":""
-},
-{
-"name":"Karnan",
-"HOCode":"CBF0000002",
-"url":"",
-"rating":""
-},
- {
-"name":"hello",
-"HOCode":"CBF0000009",
-"url":"",
-"rating":""
-},
-  {
-"name":"hello",
-"HOCode":"CBF0000010",
-"url":"",
-"rating":""
-}
+[
+    {
+        "name": "KGF 2",
+        "HOCode": "NML0000001",
+        "url": "",
+        "rating": "U/A"
+    },
+    {
+        "name": "Karnan",
+        "HOCode": "NML0000002",
+        "url": "",
+        "rating": "U/A"
+    },
+    {
+        "name": "Cobra",
+        "HOCode": "NML0000003",
+        "url": "",
+        "rating": "U/A"
+    },
+    {
+        "name": "Maanadu",
+        "HOCode": "NML0000004",
+        "url": "",
+        "rating": "U/A"
+    },
+    {
+        "name": "Doctor",
+        "HOCode": "NML0000005",
+        "url": "",
+        "rating": "U/A"
+    },
+    {
+        "name": "RRR",
+        "HOCode": "NML0000006",
+        "url": "",
+        "rating": "U/A"
+    }
 ]

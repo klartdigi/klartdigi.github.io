@@ -1,0 +1,45 @@
+
+{
+    "Title": "Doctor",
+    "Year": "2021",
+    "Rated": "N/A",
+    "Released": "01 May 2021",
+    "Runtime": "N/A",
+    "Genre": "Action, Comedy, Crime, Thriller",
+    "Director": {
+        "name": "Nelson Dilipkumar",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/Nelson Dilipkumar.jpg"
+    },
+    "Producer": {
+        "name": "Sivakarthikeyan Doss",
+        "imagUrl": "https://klart-digi.github.io/Media/actors/Sivakarthikeyan.jpg"
+    },
+    "Writer": "Nelson Dilipkumar",
+    "Actors": {
+        "Sivakarthikeyan": "https://klart-digi.github.io/Media/actors/Sivakarthikeyan.jpg",
+        "Priyanka Arulmohan": "https://klart-digi.github.io/Media/actors/Priyanka Arul Mohan.jpg",
+        "Yogi Babu": "https://klart-digi.github.io/Media/actors/Yogi_Babu.jpg",
+        "Redin Kingselly": "https://klart-digi.github.io/Media/actors/Redin Kingselly.jpg"
+    },
+    "Description": "An ordinary cheater doctor become an original doctor because to prove his love and take action on doctors who cheating the people.",
+    "Language": "Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjI5MDJmZDItMjcyMS00YWY3LTk4ZmMtZTIzOTVjZTlhMDA4XkEyXkFqcGdeQXVyMTI4Nzc4Njg3._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt11374902",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "TrailerUrl": "https://www.youtube.com/watch?v=UTiXQcrLlv4",
+    "PosterUrl": "https://klart-digi.github.io/Media/Movies/NML0000005/poster.jpg",
+    "bannerUrl": "https://klart-digi.github.io/Media/Movies/NML0000005/banner.png",
+    "Tomotometer": "77%",
+    "AudienceScore": "77%"
+}
